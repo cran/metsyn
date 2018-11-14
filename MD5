@@ -1,0 +1,15 @@
+a1db5f25869e35fcfb61466da62565b9 *DESCRIPTION
+b186e1ede7dc149977e3829e73c8cffa *LICENSE
+f89c5a95df39a15bd1a30e46ad2b2aa0 *NAMESPACE
+95df322b4c20c7b271ae8bdedb444b92 *NEWS.md
+c3993ba872017b9bf3c14467a5bc00a6 *R/download_daily_synop.R
+ece94f1f276fef9148bf69b167e87cb9 *R/download_monthly_synop.R
+03e4accd4d2c31f58cf625a2c1e6a31e *R/make_metdes.R
+339734f69da173c1c846f1a114de91b7 *R/make_metsta.R
+269250cfd5962103ef0e17419b40c424 *R/make_metsyn.R
+7a8eb0919555a4ace86b904441cc2d2a *R/metsyn_url.R
+f14e6ff4a35483f80c35eb2114a64801 *README.md
+3216707e1c3bb0bb35479975843c1c2c *man/download_daily_synop.Rd
+5eeb2f15bbe6eccf7a9513bb6aafd0f6 *man/make_metdes.Rd
+54b530558a867fcbd33a3fb3ba933d14 *man/make_metsta.Rd
+cbe47a926235c4e86f516287217f130f *man/make_metsyn.Rd
